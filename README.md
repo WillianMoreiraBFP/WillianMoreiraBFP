@@ -81,4 +81,4 @@ Sou um desenvolvedor focado em construir sistemas robustos e escaláveis. Atualm
 ### 📚 No que estou trabalhando agora?
 - [ ] Finalizando novas funcionalidades para a AuditFlow API.
 - [ ] Estudando a fundo estruturas de dados e otimização de performance.
-- [ ] Explorando novas tendências em cibersegurança e atualizações do ecossistema Java.
+- [ ] Aplicando princípios de **Clean Code** e explorando **Arquitetura de Software**.
