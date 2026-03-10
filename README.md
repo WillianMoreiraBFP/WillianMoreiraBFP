@@ -11,6 +11,9 @@ Sou um desenvolvedor focado em construir sistemas robustos e escaláveis. Atualm
 
 * **Back-end por opção:** Mantenho uma distância segura e saudável do front-end. Meu negócio é lógica, banco de dados e APIs.
 * **Aprendizado constante:** Atualmente mergulhado em algoritmos (estudando pelo Grokking Algorithms) e refinando meu inglês técnico.
+* **Escuta Estratégica:** Prefiro absorver o máximo de informação e contexto antes de me posicionar. Acredito que falar no momento certo e com embasamento agrega muito mais valor à discussão técnica.
+* **Pragmatismo Técnico:** Priorizo entregas consistentes e funcionais dentro do prazo. No código, meu foco é garantir responsabilidade individual sobre as tarefas e uma base sólida para o sistema.
+* **Resiliência e Coragem Técnica:** Mantenho a calma diante de bugs complexos e tenho paciência para encontrar a raiz do problema. Não tenho medo de refatorar ou recomeçar do zero se isso for o caminho mais assertivo para o projeto a longo prazo.
 
 ---
 
