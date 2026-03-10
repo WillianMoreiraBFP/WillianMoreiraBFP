@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Back-end Developer
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/willian-moreira-brito)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-moreira-brito)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willianmbfp@gmail.com)
 
 Sou um desenvolvedor focado em construir sistemas robustos e escaláveis. Atualmente, curso Engenharia de Software na FIAP e dedico minhas manhãs (sim, o dia começa às 6:00, com muito café) a aprimorar minhas habilidades em Java e arquitetura de software.
