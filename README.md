@@ -5,21 +5,67 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
-Sou um desenvolvedor focado em construir sistemas robustos e escaláveis. Atualmente, curso Engenharia de Software e dedico minhas manhãs (sim, o dia começa às 6:00, com muito café) a aprimorar minhas habilidades em Java, Linux e arquitetura de sistemas.
+Sou um desenvolvedor focado em construir sistemas robustos e escaláveis. Atualmente, curso Engenharia de Software na FIAP e dedico minhas manhãs (sim, o dia começa às 6:00, com muito café) a aprimorar minhas habilidades em Java e arquitetura de software.
 
 **O que você deve saber sobre mim:**
 
 * **Back-end por opção:** Mantenho uma distância segura e saudável do front-end. Meu negócio é lógica, banco de dados e APIs.
 * **Aprendizado constante:** Atualmente mergulhado em algoritmos (estudando pelo Grokking Algorithms) e refinando meu inglês técnico.
-* **Movido a trilhas sonoras:** Seja o peso do Rock clássico (AC/DC, Iron Maiden) ou o foco do Synthwave, sempre tem algo tocando enquanto codo. (Você me encontrará mais facilmente no YouTube Music do que no Spotify).
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-* **Linguagens:** Java (Core, Servlets)
-* **Banco de Dados:** PostgreSQL (principal), Oracle Database
-* **DevOps & Ferramentas:** Linux (o sistema operacional de verdade), Docker, Git
-* **Interesses Técnicos:** Cibersegurança, Desenvolvimento de APIs, Cloud e Hardware.
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br>
+<br>
 
 ---
 
