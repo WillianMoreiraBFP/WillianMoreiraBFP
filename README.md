@@ -1,6 +1,9 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Willian Moreira B F Pinto👋
 
-### Junior Back-end Developer | Software Engineering Student
+### Software Engineering Student | Back-end Developer
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 Sou um desenvolvedor focado em construir sistemas robustos e escaláveis. Atualmente, curso Engenharia de Software e dedico minhas manhãs (sim, o dia começa às 6:00, com muito café) a aprimorar minhas habilidades em Java, Linux e arquitetura de sistemas.
 
